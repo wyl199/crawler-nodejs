@@ -8,7 +8,7 @@ cheerio(https://github.com/cheeriojs/cheerio ) 可以看成 Node.js 版的 jquer
 superagent(http://visionmedia.github.io/superagent/ ) 是个 http 方面的库，可以发起 get 或 post 请求。
 
 ### npm vs yarn
-包管理工具用了yarn替代npm, 下面是npm与yarn常用命令的对照表：<br>
+包管理工具用了yarn替代npm, 下面是npm与yarn常用命令的对照表：
 - npm install  => yarn install 
 - npm install --save [package] => yarn add [package] 
 - npm install --save-dev [package] => yarn add [package] --dev 
