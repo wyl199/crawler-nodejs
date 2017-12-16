@@ -9,9 +9,9 @@ superagent(http://visionmedia.github.io/superagent/ ) 是个 http 方面的库�
 
 ### npm vs yarn
 包管理工具用了yarn替代npm, 下面是npm与yarn常用命令的对照表：<br>
-npm install  => yarn install <br>
-npm install --save [package] => yarn add [package] <br>
-npm install --save-dev [package] => yarn add [package] --dev <br>
-npm install --global [package] => yarn global add [package] <br>
-npm uninstall --save [package] => yarn remove [package] <br>
-npm uninstall --save-dev [package] => yarn remove [package] 
+- npm install  => yarn install 
+- npm install --save [package] => yarn add [package] 
+- npm install --save-dev [package] => yarn add [package] --dev 
+- npm install --global [package] => yarn global add [package] 
+- npm uninstall --save [package] => yarn remove [package] 
+- npm uninstall --save-dev [package] => yarn remove [package] 
